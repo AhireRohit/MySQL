@@ -1,0 +1,11 @@
+what is a database --> is a collection of data stored in a format that can easily be accessed
+
+DBMS can be classified in 2 --> relational and non - relational
+Non - Relational also called NoSQL 
+Relation dbs --> --> data is in the form of tables linked to each other 
+
+SQL is a language used to work with these DBMS
+
+There are many RDBMS like MySQL, SQL Server, Oracle
+
+nosql has it's own query language
